@@ -27,6 +27,6 @@ export default defineNuxtConfig({
   },
 
   gtag: {
-    id: 'G-Y8MW8V3RSR', // Replace with your actual Google Analytics Measurement ID
+    id: 'GT-5TCSFVD6', // Replace with your actual Google Analytics Measurement ID
   },
 })

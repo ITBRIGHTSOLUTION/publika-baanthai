@@ -39,9 +39,9 @@
             </div>
           </div>
         </swiper-slide>
-        <swiper-slide>
+        <!-- <swiper-slide>
           <img src="../assets/images/Website-Slider_Ramadan.webp" alt="" class="w-full">
-        </swiper-slide>
+        </swiper-slide> -->
       </swiper>
     </a>
     
@@ -102,8 +102,8 @@
         <div class="px-4 pt-2">Nasi Goreng Nenas</div>
       </div>
       <div class="mx-1 md:mx-3 mb-4 md:mb-8">
-        <img src="../assets/images/BT3-kangkung.webp" alt="" class="p-2 xl:p-0">
-        <div class="px-4 pt-2">Kangkung Goreng- Gaya Thai</div>
+        <img src="../assets/images/DagingThaiBasil.webp" alt="" class="p-2 xl:p-0">
+        <div class="px-4 pt-2">Daging Thai Basil</div>
       </div>
 
       <div class="mx-1 md:mx-3 mb-4 md:mb-8">

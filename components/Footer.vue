@@ -36,7 +36,7 @@
       </div>
     </section>
     
-    <div class="text-center mt-12 mb-5 mx-auto text-xs md:text-sm lg:text-base">&copy; 2024 All rights reserved by Baan Thai Malaysia</div>
+    <div class="text-center mt-12 mb-5 mx-auto text-xs md:text-sm lg:text-base">&copy; 2024 All rights reserved by Baan Thai @ Publika</div>
   </div>
 
 </template>

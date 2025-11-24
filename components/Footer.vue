@@ -9,8 +9,13 @@
         </div>
         <section>
           <div class="my-3">
+            <div class="text-primary font-bold">Baan Thai 3 Restaurant Sdn. Bhd.</div>
+            <div class="text-sm">(1522207-W)</div>
+          </div>
+
+          <div class="my-3">
             <div class="text-primary font-bold">Call Us</div>
-            <div>018-664 9135</div>
+            <a href="tel:+60186649135" class="hover:text-primary transition-colors">018-664 9135</a>
           </div>
 
           <div class="my-3">

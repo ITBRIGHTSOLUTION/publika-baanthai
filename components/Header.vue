@@ -23,7 +23,7 @@
               <nuxt-link @click="closeMenu()" class="uppercase px-6 py-2" to="https://catering.baanthaipublika.com" exact-active-class="active">Catering Service</nuxt-link>
             </li> -->
             <li class="my-2 lg:my-0">
-              <nuxt-link @click="closeMenu()" class="px-8 py-2" to="/jom-makan" target="_blank" exact-active-class="active">JOM MAKAN</nuxt-link>
+              <nuxt-link @click="closeMenu()" class="px-8 py-2" to="/jommakan2026" target="_blank" exact-active-class="active">JOM MAKAN</nuxt-link>
             </li>
             <li class="my-2 lg:my-0">
               <nuxt-link @click="closeMenu()" class="px-8 py-2" to="https://drive.google.com/file/d/17IdlgDNTpTfrbjZJ-pAV3yyvGwiXO6Ql/view?usp=drive_link" target="_blank" exact-active-class="active">MENU</nuxt-link>

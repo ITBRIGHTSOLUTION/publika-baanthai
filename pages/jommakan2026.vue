@@ -63,7 +63,7 @@
           
           <!-- Overlay for Clickable areas -->
           <div class="absolute bottom-[40%] right-[16%] w-[28%] h-[15%]">
-              <a href="https://wa.link/sfeypg" target="_blank" class="block w-full h-full" title="Tempah Sekarang"></a>
+              <a href="https://bit.ly/bookjommakan2026" target="_blank" class="block w-full h-full" title="Tempah Sekarang"></a>
           </div>
 
           <div class="absolute bottom-[21%] right-[33%] w-[12%] h-[6%]">
